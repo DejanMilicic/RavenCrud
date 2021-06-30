@@ -1,0 +1,1 @@
+﻿docker run -d -p 8080:8080 -e RAVEN_ARGS="--Setup.Mode=None --License.Eula.Accepted=true" ravendb/ravendb
